@@ -15,11 +15,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".OfflineActivity" />
-        <activity android:name=".OnlineActivity" />
-        <activity android:name=".RadioActivity" />
-        <activity android:name=".RecentActivity" />
-        <activity android:name=".FavoritesActivity"></activity>
+        <activity android:name=".OfflineActivity" android:label="@string/offline_category"/>
+        <activity android:name=".OnlineActivity" android:label="@string/online_category"/>
+        <activity android:name=".RadioActivity" android:label="@string/radio_category"/>
+        <activity android:name=".RecentActivity" android:label="@string/recent_category"/>
+        <activity android:name=".FavoritesActivity" android:label="@string/favorites_category">
+        </activity>
     </application>
 
 </manifest>
