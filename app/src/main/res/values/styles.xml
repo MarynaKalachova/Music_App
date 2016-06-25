@@ -22,20 +22,52 @@
     </style>
 
     <style name="mainActivityTextView_Online" parent="@style/mainActivityTextView">
-        <item name="android:background">@color/category_online</item>
+        <item name="android:background">@color/category2</item>
     </style>
 
     <style name="mainActivityTextView_Radio" parent="@style/mainActivityTextView">
-        <item name="android:background">@color/category_radio</item>
+        <item name="android:background">@color/category3</item>
     </style>
 
     <style name="mainActivityTextView_Recent" parent="@style/mainActivityTextView">
-        <item name="android:background">@color/category_recent</item>
+        <item name="android:background">@color/category4</item>
     </style>
 
     <style name="mainActivityTextView_Favorites" parent="@style/mainActivityTextView">
         <item name="android:background">@color/colorPrimary</item>
     </style>
 
+    <style name="LinearLayoutWithImage">
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="secondaryActivityTextView">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/colorText</item>
+    </style>
+
+    <style name="secondaryActivity1" parent="@style/secondaryActivityTextView">
+        <item name="android:background">@color/category2</item>
+    </style>
+
+    <style name="secondaryActivity2" parent="@style/secondaryActivityTextView">
+        <item name="android:background">@color/category3</item>
+    </style>
+
+    <style name="secondaryActivity3" parent="@style/secondaryActivityTextView">
+        <item name="android:background">@color/category4</item>
+    </style>
+
+    <style name="BackgroundImage">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
 
 </resources>

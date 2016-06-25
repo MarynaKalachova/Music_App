@@ -4,9 +4,9 @@
     <color name="colorPrimaryDark">#E64A19</color>
     <color name="colorAccent">#03A9F4</color>
     <color name="colorLightPrimaryColor">#FFCCBC</color>
-    <color name="category_online">#ffab91</color>
-    <color name="category_radio">#ff8a64</color>
-    <color name="category_recent">#ff7043</color>
+    <color name="category2">#ffab91</color>
+    <color name="category3">#ff8a64</color>
+    <color name="category4">#ff7043</color>
     <color name="colorText">#FFFFFF</color>
 
 
