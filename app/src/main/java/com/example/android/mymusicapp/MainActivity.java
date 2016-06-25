@@ -7,7 +7,6 @@ import android.view.View;
 import android.widget.TextView;
 import android.view.View.OnClickListener;
 
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -19,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         offline.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent offlineIntent = new Intent (MainActivity.this, OfflineActivity.class);
+                Intent offlineIntent = new Intent(MainActivity.this, OfflineActivity.class);
                 startActivity(offlineIntent);
             }
         });
@@ -28,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         online.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent onlineIntent = new Intent (MainActivity.this, OnlineActivity.class);
+                Intent onlineIntent = new Intent(MainActivity.this, OnlineActivity.class);
                 startActivity(onlineIntent);
             }
         });

@@ -7,22 +7,21 @@
 
     <ImageView
         style="@style/BackgroundImage"
-        android:src="@drawable/offline_music"/>
+        android:src="@drawable/offline_music" />
 
-    <LinearLayout
-        style="@style/LinearLayoutWithImage">
+    <LinearLayout style="@style/LinearLayoutWithImage">
 
         <TextView
             style="@style/secondaryActivity1"
-            android:text="@string/search"/>
+            android:text="@string/search" />
 
         <TextView
             style="@style/secondaryActivity2"
-            android:text="@string/albums"/>
+            android:text="@string/albums" />
 
         <TextView
             style="@style/secondaryActivity3"
-            android:text="@string/all_songs"/>
+            android:text="@string/all_songs" />
 
     </LinearLayout>
 

@@ -8,7 +8,7 @@
     <string name="recent_category">Recently listened</string>
 
     <string name="search">Search</string>
-    <string name="search_genre">Peek genre</string>
+    <string name="search_genre">Pick genre</string>
     <!--<string name="folders">Folders</string>-->
     <string name="albums">Albums</string>
     <string name="all_songs">All songs</string>
