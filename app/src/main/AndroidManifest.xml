@@ -15,7 +15,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".OfflineActivity"></activity>
+        <activity android:name=".OfflineActivity" />
+        <activity android:name=".OnlineActivity" />
+        <activity android:name=".RadioActivity" />
+        <activity android:name=".RecentActivity" />
+        <activity android:name=".FavoritesActivity"></activity>
     </application>
 
 </manifest>
