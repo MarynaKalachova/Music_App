@@ -7,7 +7,8 @@
     <color name="category2">#ffab91</color>
     <color name="category3">#ff8a64</color>
     <color name="category4">#ff7043</color>
-    <color name="colorText">#FFFFFF</color>
+    <color name="colorTextWhite">#FFFFFF</color>
+    <color name="colorTextGrey">#757575</color>
 
 
 </resources>

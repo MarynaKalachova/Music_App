@@ -20,4 +20,20 @@
     <string name="genre_jazz_blues">Jazz and Blues</string>
     <string name="genre_instrumental">Instrumental</string>
 
+    //http://www.ClassicRockFLorida.com
+    <string name="radio1">Classic Rock Florida - SHE Radio</string>
+    http://www.smoothjazzflorida.com
+    <string name="radio2">Smooth Jazz Florida</string>
+    //http://AmbientRadio.org
+    <string name="radio3">Ambient Radio.org</string>
+    //http://www.danceradiouk.com
+    <string name="radio4">Dance UK Radio</string>
+    //http://www.magicoldiesflorida.com
+    <string name="radio5">Motown Magic Oldies</string>
+    http://art.fm
+    <string name="radio6">Art.fm - Chillout Music</string>
+    //http://www.ms-blues.com
+    <string name="radio7">Midnight Special Blues Radio</string>
+
+
 </resources>

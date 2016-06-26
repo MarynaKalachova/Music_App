@@ -14,7 +14,7 @@
         <item name="android:layout_weight">1</item>
         <item name="android:gravity">center</item>
         <item name="android:textSize">24sp</item>
-        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textColor">@color/colorTextWhite</item>
     </style>
 
     <style name="mainActivityTextView_Offline" parent="@style/mainActivityTextView">
@@ -49,7 +49,7 @@
         <item name="android:layout_alignParentTop">true</item>
         <item name="android:gravity">center</item>
         <item name="android:textSize">24sp</item>
-        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textColor">@color/colorTextWhite</item>
     </style>
 
     <style name="secondaryActivity1" parent="@style/secondaryActivityTextView">
@@ -68,6 +68,26 @@
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">match_parent</item>
         <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <style name="LinearLayoutWithBackgroundColor">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@color/colorLightPrimaryColor</item>
+    </style>
+
+    <style name="ListStyle">
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_margin">20dp</item>
+    </style>
+
+    <style name="ScrollViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/colorLightPrimaryColor</item>
     </style>
 
 </resources>
