@@ -20,6 +20,7 @@
     <string name="genre_rap_hiphop">Rap and Hip-Hop</string>
     <string name="genre_jazz_blues">Jazz and Blues</string>
     <string name="genre_instrumental">Instrumental</string>
+    <string name="genre_metal">Metal</string>
 
     //http://www.ClassicRockFLorida.com
     <string name="radio1">Classic Rock Florida - SHE Radio</string>

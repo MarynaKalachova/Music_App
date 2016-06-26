@@ -21,5 +21,14 @@ public class OnlineActivity extends AppCompatActivity {
                 startActivity(onlineSearchIntent);
             }
         });
+
+        TextView online_genre = (TextView) findViewById(R.id.online_genre);
+        online_genre.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent onlineGenreIntent = new Intent(OnlineActivity.this, OnlineGenreActivity.class);
+                startActivity(onlineGenreIntent);
+            }
+        });
     }
 }

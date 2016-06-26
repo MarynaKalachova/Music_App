@@ -36,8 +36,13 @@
         <activity
             android:name=".OnlineSearchActivity"
             android:label="@string/search_online" />
-        <activity android:name=".OfflineAlbumsActivity" android:label="@string/albums"/>
-        <activity android:name=".OfflineSongsActivity" android:label="@string/all_songs"></activity>
+        <activity
+            android:name=".OfflineAlbumsActivity"
+            android:label="@string/albums" />
+        <activity
+            android:name=".OfflineSongsActivity"
+            android:label="@string/all_songs" />
+        <activity android:name=".OnlineGenreActivity" android:label="@string/search_genre"></activity>
     </application>
 
 </manifest>
