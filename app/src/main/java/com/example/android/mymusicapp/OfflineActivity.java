@@ -24,5 +24,14 @@ public class OfflineActivity extends AppCompatActivity {
             }
         });
 
+        TextView offline_albums = (TextView) findViewById(R.id.offline_albums);
+        offline_albums.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent offlineAlbumsIntent = new Intent(OfflineActivity.this, OfflineAlbumsActivity.class);
+                startActivity(offlineAlbumsIntent);
+            }
+        });
+
     }
 }

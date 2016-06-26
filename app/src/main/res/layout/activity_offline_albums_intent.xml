@@ -8,7 +8,7 @@
 
         <TextView
             style="@style/ListStyle"
-            android:text="@string/search_message" />
+            android:text="@string/albums_message" />
 
     </LinearLayout>
 

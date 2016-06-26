@@ -29,8 +29,14 @@
             android:label="@string/recent_category" />
         <activity
             android:name=".FavoritesActivity"
-            android:label="@string/favorites_category"></activity>
-        <activity android:name=".OfflineSearchActivity" android:label="@string/search"></activity>
+            android:label="@string/favorites_category" />
+        <activity
+            android:name=".OfflineSearchActivity"
+            android:label="@string/search" />
+        <activity
+            android:name=".OnlineSearchActivity"
+            android:label="@string/search_online" />
+        <activity android:name=".OfflineAlbumsActivity"></activity>
     </application>
 
 </manifest>

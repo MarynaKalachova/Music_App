@@ -8,6 +8,7 @@
     <string name="recent_category">Recently listened</string>
 
     <string name="search">Search</string>
+    <string name="search_online">Search online</string>
     <string name="search_genre">Pick genre</string>
     <!--<string name="folders">Folders</string>-->
     <string name="albums">Albums</string>
@@ -38,6 +39,7 @@
     <string name="display_message">No music to display...</string>
     <string name="favorite_music">You don\'t have favorite songs...</string>
     <string name="search_message">Search field will be available soon...</string>
+    <string name="albums_message">No albums found on your phone...</string>
 
 
 </resources>
