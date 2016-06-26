@@ -40,6 +40,7 @@
     <string name="favorite_music">You don\'t have favorite songs...</string>
     <string name="search_message">Search field will be available soon...</string>
     <string name="albums_message">No albums found on your phone...</string>
+    <string name="songs_message">No songs found on your phone...</string>
 
 
 </resources>

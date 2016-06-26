@@ -33,5 +33,14 @@ public class OfflineActivity extends AppCompatActivity {
             }
         });
 
+        TextView offline_songs = (TextView) findViewById(R.id.offline_songs);
+        offline_songs.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent offlineSongsIntent = new Intent(OfflineActivity.this, OfflineSongsActivity.class);
+                startActivity(offlineSongsIntent);
+            }
+        });
+
     }
 }
