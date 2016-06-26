@@ -9,7 +9,7 @@
         <TextView
             android:id="@+id/classic_rock_florida"
             style="@style/ListStyle"
-            android:text="@string/favorite_music" />
+            android:text="@string/search_message" />
 
     </LinearLayout>
 

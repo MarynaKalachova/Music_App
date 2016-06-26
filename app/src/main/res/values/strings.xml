@@ -35,5 +35,9 @@
     //http://www.ms-blues.com
     <string name="radio7">Midnight Special Blues Radio</string>
 
+    <string name="display_message">No music to display...</string>
+    <string name="favorite_music">You don\'t have favorite songs...</string>
+    <string name="search_message">Search field will be available soon...</string>
+
 
 </resources>

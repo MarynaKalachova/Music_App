@@ -12,14 +12,17 @@
     <LinearLayout style="@style/LinearLayoutWithImage">
 
         <TextView
+            android:id="@+id/offline_search"
             style="@style/secondaryActivity1"
             android:text="@string/search" />
 
         <TextView
+            android:id="@+id/offline_albums"
             style="@style/secondaryActivity2"
             android:text="@string/albums" />
 
         <TextView
+            android:id="@+id/offline_songs"
             style="@style/secondaryActivity3"
             android:text="@string/all_songs" />
 
