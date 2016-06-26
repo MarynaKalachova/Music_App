@@ -7,39 +7,39 @@
     <LinearLayout style="@style/LinearLayoutWithBackgroundColor">
 
         <TextView
-            android:id="@+id/genre_rock"
+            android:id="@+id/rock"
             style="@style/ListStyle"
-            android:text="@string/genre_rock" />
+            android:text="@string/rock" />
 
         <TextView
-            android:id="@+id/genre_pop"
+            android:id="@+id/pop"
             style="@style/ListStyle"
-            android:text="@string/genre_pop" />
+            android:text="@string/pop" />
 
         <TextView
-            android:id="@+id/genre_rap"
+            android:id="@+id/rap"
             style="@style/ListStyle"
-            android:text="@string/genre_rap_hiphop" />
+            android:text="@string/rap_hiphop" />
 
         <TextView
-            android:id="@+id/genre_dance"
+            android:id="@+id/dance"
             style="@style/ListStyle"
-            android:text="@string/genre_dance" />
+            android:text="@string/dance" />
 
         <TextView
-            android:id="@+id/genre_jazz"
+            android:id="@+id/jazz"
             style="@style/ListStyle"
-            android:text="@string/genre_jazz_blues" />
+            android:text="@string/jazz_blues" />
 
         <TextView
-            android:id="@+id/genre_instrumental"
+            android:id="@+id/instrumental"
             style="@style/ListStyle"
-            android:text="@string/genre_instrumental" />
+            android:text="@string/instrumental" />
 
         <TextView
-            android:id="@+id/genre_metal"
+            android:id="@+id/metal"
             style="@style/ListStyle"
-            android:text="@string/genre_metal" />
+            android:text="@string/metal" />
 
     </LinearLayout>
 

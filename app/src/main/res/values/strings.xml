@@ -14,13 +14,21 @@
     <string name="albums">Albums</string>
     <string name="all_songs">All songs</string>
 
-    <string name="genre_rock">Rock</string>
-    <string name="genre_pop">Pop</string>
-    <string name="genre_dance">Dance</string>
-    <string name="genre_rap_hiphop">Rap and Hip-Hop</string>
-    <string name="genre_jazz_blues">Jazz and Blues</string>
-    <string name="genre_instrumental">Instrumental</string>
-    <string name="genre_metal">Metal</string>
+    <string name="rock">Rock</string>
+    <string name="pop">Pop</string>
+    <string name="dance">Dance</string>
+    <string name="rap_hiphop">Rap and Hip-Hop</string>
+    <string name="jazz_blues">Jazz and Blues</string>
+    <string name="instrumental">Instrumental</string>
+    <string name="metal">Metal</string>
+
+    <string name="genre_rock">Genre: Rock</string>
+    <string name="genre_pop">Genre: Pop</string>
+    <string name="genre_dance">Genre: Dance</string>
+    <string name="genre_rap_hiphop">Genre: Rap and Hip-Hop</string>
+    <string name="genre_jazz_blues">Genre: Jazz and Blues</string>
+    <string name="genre_instrumental">Genre: Instrumental</string>
+    <string name="genre_metal">Genre: Metal</string>
 
     //http://www.ClassicRockFLorida.com
     <string name="radio1">Classic Rock Florida - SHE Radio</string>

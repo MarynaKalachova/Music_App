@@ -42,7 +42,16 @@
         <activity
             android:name=".OfflineSongsActivity"
             android:label="@string/all_songs" />
-        <activity android:name=".OnlineGenreActivity" android:label="@string/search_genre"></activity>
+        <activity
+            android:name=".OnlineGenreActivity"
+            android:label="@string/search_genre" />
+        <activity android:name=".GenreRockActivity"  android:label="@string/genre_rock"/>
+        <activity android:name=".GenrePopActivity" android:label="@string/genre_pop"/>
+        <activity android:name=".GenreRapActivity" android:label="@string/genre_rap_hiphop"/>
+        <activity android:name=".GenreDanceActivity" android:label="@string/genre_dance"/>
+        <activity android:name=".GenreJazzActivity" android:label="@string/genre_jazz_blues"/>
+        <activity android:name=".GenreMetalActivity" android:label="@string/genre_metal"/>
+        <activity android:name=".GenreInstrumentalActivity" android:label="@string/genre_instrumental"></activity>
     </application>
 
 </manifest>
