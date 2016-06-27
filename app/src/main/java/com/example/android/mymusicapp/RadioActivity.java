@@ -9,9 +9,9 @@ public class RadioActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_radio);
-
-        /*To stream radio, this class should contain public class MediaPlayer. onClickListener
-         * method will be set on each TextView with the name of the radio. It will call MediaPlayer
-          * that will stream music.*/
     }
 }
+
+ /*To stream radio, this class should contain public class MediaPlayer. onClickListener
+ * method will be set on each TextView with the name of the radio. It will call MediaPlayer
+ * that will stream music.*/

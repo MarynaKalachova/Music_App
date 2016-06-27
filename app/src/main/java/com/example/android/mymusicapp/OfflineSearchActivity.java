@@ -13,4 +13,6 @@ public class OfflineSearchActivity extends AppCompatActivity {
 }
 
 
-/*To perform a search, I will add a SearchView widget to the app bar. */
+/*To perform a search, I will add a SearchView widget to the app bar. I'll have to create a
+* searchable configuration and searchable activity. I will also need the ContentResolver class to
+* retrieve tracks on the device. MediaPlayer class will be involved in playing audio*/

@@ -11,3 +11,7 @@ public class OfflineSongsActivity extends AppCompatActivity {
         setContentView(R.layout.activity_offline_songs);
     }
 }
+
+
+/*This activity will list all the songs found on the device. The ContentResolver class will be
+responsible for retrieving tracks. MediaPlayer class will be involved in playing audio*/

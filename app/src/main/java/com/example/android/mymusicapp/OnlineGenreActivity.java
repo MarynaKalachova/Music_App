@@ -78,3 +78,6 @@ public class OnlineGenreActivity extends AppCompatActivity {
         });
     }
 }
+
+/*Retrieving tracks from the cloud should be done the same way as in the online search except that
+* here one of the search criteria is a genre.*/
